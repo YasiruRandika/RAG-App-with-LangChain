@@ -1,0 +1,5 @@
+langchain 
+langchain-text-splitters 
+langchain-community
+langchain-chroma
+bs4
