@@ -1,4 +1,4 @@
-# 🧠 RAG-App-with-LangChain
+# 🧠 RAG-with-LangChain
 
 Welcome to my first hands-on exploration of **Retrieval-Augmented Generation (RAG)** using [LangChain](https://docs.langchain.com/). This repository is a personal learning space where I experiment with building intelligent, context-aware applications that combine LLMs with external data sources.
 
